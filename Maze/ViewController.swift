@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Maze
 //
-//  Created by井ケ田沙紀 on 2021/05/14.
+//  Created by 井ケ田 沙紀 on 2021/05/14.
 //
 import UIKit
 import CoreMotion
